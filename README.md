@@ -17,7 +17,11 @@ Uma aplicação simples de lista de tarefas (To-Do List) para iOS, desenvolvida 
 
 <!-- Adicione imagens do app aqui -->
 <!-- Exemplo: -->
-<!-- <p float="left"> <img src="screenshots/screen1.png" width="200" /> <img src="screenshots/screen2.png" width="200" /> </p> -->
+<p float="left">
+  <img src="./screenshots/IMG_9134.PNG" width="250"/>
+  <img src="./screenshots/IMG_9135.PNG" width="250"/>
+  <img src="./screenshots/IMG_9136.PNG" width="250"/>
+</p>
 
 ## Instalação 🚀
 
